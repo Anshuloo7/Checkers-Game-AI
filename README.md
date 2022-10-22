@@ -1,4 +1,4 @@
-# Checkers-Game-AI https://github.com/Anshuloo7/Checkers-Game
+# Checkers-Game-AI 
 The American Checkers Game developed as part of the software engineering curriculum by following the principle of Agile Methodologies. 
 This is an extended version of https://github.com/Anshuloo7/Checkers-Game.
 
